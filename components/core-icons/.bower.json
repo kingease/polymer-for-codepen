@@ -19,6 +19,6 @@
     "commit": "19ca6c4529dd99e0d6b2e1e37dae5e621c423667"
   },
   "_source": "git://github.com/polymer/core-icons.git",
-  "_target": "^0.5",
-  "_originalSource": "Polymer/core-icons"
+  "_target": "~0.5.5",
+  "_originalSource": "polymer/core-icons"
 }
