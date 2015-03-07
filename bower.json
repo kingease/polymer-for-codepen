@@ -14,6 +14,7 @@
     "polymer": "polymer/polymer#~0.5.5",
     "core-icons": "polymer/core-icons#~0.5.5",
     "core-elements": "polymer/core-elements#~0.5.5",
-    "paper-elements": "polymer/paper-elements#~0.5.5"
+    "paper-elements": "polymer/paper-elements#~0.5.5",
+    "flatiron-director": "polymer/flatiron-director#~0.5.0"
   }
 }
